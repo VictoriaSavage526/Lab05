@@ -34,7 +34,12 @@ I couldn't run ctest due to the fact that I got this error message
 [MathFunctions/CMakeLists.txt](https://github.com/VictoriaSavage526/Lab05/blob/main/Step5/MathFunctions/CMakeLists.txt)
 i tried but was unable to connect my compiler.
 
-# Section 2
-
 
 ![Error Message](https://github.com/VictoriaSavage526/Lab05/blob/main/ErrorMessage.PNG)
+
+
+
+# Section 2
+This was the best I could do with my system limitations. 
+[makefile](https://github.com/VictoriaSavage526/Lab05/blob/main/makefile)
+[CMakeLists](https://github.com/VictoriaSavage526/Lab05/blob/main/CMakeLists.txt)
